@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+ 	<channel>
+		<title>Dubai | Of Travels and Trivializations | Brian H. Jaffe</title>
+		<link>http://www.BrianHJaffe.com/photo-album/dubai/</link>
+		<description></description>
+		<language>en</language>
+		<lastBuildDate>Mon, 16 Feb 2015 23:05:13 -0800</lastBuildDate>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>Sandvox 2.1.9</generator>
+		<item>
+			<title>Burj Khalifa</title>
+			<link>http://www.BrianHJaffe.com/photo-album/dubai/burj-khalifa.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+	&lt;div class="first graphic-container wide center ImageElement"&gt;
+		&lt;div class="graphic"&gt;&lt;!-- sandvox.ImageElement --&gt;&lt;img width="421" height="561" src="http://www.BrianHJaffe.com/public_html/_Media/burj_khalifa_med.jpeg" alt="Burj Khalifa" class="figure-content graphic" /&gt;&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
+		&lt;div class="caption"&gt;&lt;p&gt;Burj Khalifa, Dubai, World's Tallest Building &lt;/p&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 13 Nov 2011 18:12:49 -0800</pubDate>
+			<guid>http://www.BrianHJaffe.com/photo-album/dubai/burj-khalifa.html</guid>
+            <enclosure url="http://www.BrianHJaffe.com/public_html/_Media/burj_khalifa_med.jpeg" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>The Address</title>
+			<link>http://www.BrianHJaffe.com/photo-album/dubai/the-address.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+	&lt;div class="first graphic-container wide center ImageElement"&gt;
+		&lt;div class="graphic"&gt;&lt;!-- sandvox.ImageElement --&gt;&lt;img width="327" height="569" src="http://www.BrianHJaffe.com/public_html/_Media/the_address_med.jpeg" alt="The Address" class="figure-content graphic" /&gt;&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
+		&lt;div class="caption"&gt;&lt;p&gt;The Address Hotel, Downtown Dubai&lt;/p&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 13 Nov 2011 18:12:49 -0800</pubDate>
+			<guid>http://www.BrianHJaffe.com/photo-album/dubai/the-address.html</guid>
+            <enclosure url="http://www.BrianHJaffe.com/public_html/_Media/the_address_med.jpeg" type="image/jpeg"></enclosure>
+			
+		</item>
+		<item>
+			<title>New Years</title>
+			<link>http://www.BrianHJaffe.com/photo-album/dubai/new-years.html</link>
+			<description>
+				&lt;div class="article-summary"&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+	&lt;div class="first graphic-container wide center ImageElement"&gt;
+		&lt;div class="graphic"&gt;&lt;!-- sandvox.ImageElement --&gt;&lt;img width="327" height="520" src="http://www.BrianHJaffe.com/public_html/_Media/burj_fireworks_med.jpeg" alt="Burj Fireworks" class="figure-content graphic" /&gt;&lt;!-- /sandvox.ImageElement --&gt;&lt;/div&gt;
+		&lt;div class="caption"&gt;&lt;p&gt;New Years 2012, Dubai&lt;/p&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+			</description>
+			<pubDate>Sun, 13 Nov 2011 18:12:49 -0800</pubDate>
+			<guid>http://www.BrianHJaffe.com/photo-album/dubai/new-years.html</guid>
+            <enclosure url="http://www.BrianHJaffe.com/public_html/_Media/burj_fireworks_med.jpeg" type="image/jpeg"></enclosure>
+			
+		</item>
+ 	</channel>
+</rss>
